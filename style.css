@@ -1,0 +1,112 @@
+/* -----------------------------index--------------------------- */
+.first a{
+    color: black;
+}
+.head{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/AI\ backgroung.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.head h1{
+    color: aliceblue;
+}
+.head p{
+    color: aliceblue;
+}
+.btn{
+    padding: 5px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+.btn a{
+    text-decoration: none;
+}
+.second{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/p.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.third{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/therapy.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+
+}
+/* --------------------------depression------------------ */
+.d{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/depression1.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.d h1{
+    color: aliceblue;
+}
+.d p{
+    color: aliceblue;
+}
+/* -----------------------------anx------------------------------ */
+.a{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/anxiety.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.a h1{
+    color: aliceblue;
+}
+.a p{
+    color: aliceblue;
+}
+/* -----------------------------anger-------------------------------- */
+.ang{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/anger.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.ang h1{
+    color: aliceblue;
+}
+.ang p{
+    color: aliceblue;
+}
+/* ----------------------------------------fear----------------------------------- */
+.f{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/fear1.jpeg);
+    background-position: center;
+    backface-visibility: visible;
+    background-size: cover;
+    position: relative;
+}
+.f h1{
+    color: aliceblue;
+}
+.f p{
+    color: aliceblue;
+}
